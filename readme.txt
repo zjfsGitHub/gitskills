@@ -1,5 +1,5 @@
 Create a new branch is quick and simple!
 f0
 no faster forward
-f5 bug
-origin clone
+another clone
+
