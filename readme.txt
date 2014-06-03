@@ -1,4 +1,4 @@
-Create a new branch is quick and simple!
+Create a new branch is  and simple!
 f0
 no faster forward
 
